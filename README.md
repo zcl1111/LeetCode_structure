@@ -1,0 +1,2 @@
+# LeetCode_structure
+用JavaScript学习数据结构，例子为LeetCode上的题
